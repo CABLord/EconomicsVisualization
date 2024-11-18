@@ -17,7 +17,32 @@ This repository contains Python scripts for visualizing various economic concept
 - matplotlib
 - numpy
 
+## Installation
+
+1. Clone this repository:
+   ```
+   git clone https://github.com/CABLord/EconomicsVisualization.git
+   ```
+
+2. Install the required packages:
+   ```
+   pip install matplotlib numpy
+   ```
+
 ## Usage
 
-Run each Python script individually to generate the corresponding visualization.
+Run each Python script individually to generate the corresponding visualization. For example:
 
+```
+python supply_demand.py
+```
+
+This will display the supply and demand curves with the market equilibrium point.
+
+## Contributing
+
+Feel free to fork this repository and submit pull requests with improvements or additional economic visualizations.
+
+## License
+
+This project is open-source and available under the MIT License.
